@@ -1,0 +1,107 @@
+body{
+    margin: 0 auto;
+    width:100%;
+    background-color:  whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hidden{
+    display:none;
+}
+
+/* .container .btn-contrl{
+ 
+
+} */
+
+.container .btn-contrl a{
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    padding-bottom: 0;
+
+    
+}
+.container .btn-contrl a:hover{
+    color:rgb(223, 177, 223)
+}
+
+.container .btn-contrl .fas{
+    font-size: 40px;
+    padding-right: 10px;
+}
+
+.contrl-btn{
+    background-color: rgb(12, 12, 51);
+    width:100%;
+    height: 70px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 4px;
+    margin-bottom: 15px;
+}
+
+.contrl-btn2{
+    background-color: rgb(72, 72, 218);
+    width:100%;
+    height: 70px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 4px;
+    margin-bottom: 15px;
+}
+
+.contrl-btn3{
+    background-color: rgb(12, 197, 221) ;
+    width:100%;
+    height: 70px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 4px;
+    margin-bottom: 15px;
+}
+
+.contrl-btn4{
+    background-color: rgb(175, 90, 218);
+    width:100%;
+    height: 70px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 4px;
+    margin-bottom: 15px;
+}
+
+.contrl-btn5{
+    background-color: rgb(238, 98, 48) ;
+    width:100%;
+    height: 70px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 4px;
+    margin-bottom: 15px;
+}
+
+.contrl-btn6{
+    background-color: rgb(41, 41, 221);
+    width:100%;
+    height: 70px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 4px;
+}
+
+.container .content{
+    background-color:#fff;
+    width: 100%;
+    padding-top: 50px;
+    height: 100%;
+    padding: 30px;
+    border-radius: 0 10 10px 0;
+}
+
+
+
+.container .content .img-fluid{
+    height:310px
+}
+
